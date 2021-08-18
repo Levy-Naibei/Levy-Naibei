@@ -1,6 +1,6 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Levy Naibei</h1>
 
-<img align="center" src="./banner.png" />
+<!--- <img align="center" src="./banner.png" /> --->
 
  <br/>
  <br/>
