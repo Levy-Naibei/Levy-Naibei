@@ -5,11 +5,11 @@
  <br/>
  <br/>
  
-- 🔭 I’m currently a contributor on `Wildlife Conservancy Web App`
+- 🔭 I’m currently a contributor on `Wildlife Conservancy Web App` in a private repo
 - 🌱 I’m currently learning `Next.js`
 - 💬 Ask me about anything, except cooking  :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-- ⚡ Fun fact: I enjoy playing piano most of my leisure and sometimes `solving data structures and algorithms problems`
+- ⚡ Fun fact: I enjoy playing piano most of my leisure and also `solving data structures and algorithms problems`
 
 ## Connect with me:
 
