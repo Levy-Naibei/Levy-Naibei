@@ -5,7 +5,7 @@
  <br/>
  <br/>
  
-- 🔭 I’m currently a contributor on `Content Delivery App` in a private repo
+- 🔭 I’m currently a contributor on `Non Profit Org web app` in a private repo
 - 🌱 I’m currently learning `Next.js` and `Typescript`
 - 💬 Ask me about anything, except cooking  :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
