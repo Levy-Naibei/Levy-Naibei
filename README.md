@@ -1,5 +1,5 @@
-Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<h2 align="center">>About me</h2>
+<p align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </p>
+<h2 align="center">About me</h2>
 
 <!--- <img align="center" src="./banner.png" /> --->
 
