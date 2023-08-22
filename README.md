@@ -7,8 +7,7 @@
  <br/>
  
 - 🔭 I’m currently a contributor on `Non Profit Org web app`
-- Also currently am doing Freecode-camp full-stack course
-<!--- - 🌱 I’m currently learning `Next.js` and `Typescript` --->
+- 🌱 Also currently am doing Freecode-camp full-stack course
 - 💬 Ask me about anything, except cooking  :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I enjoy playing `piano` most of my leisure and also solving `data structures and algorithms challenges`
