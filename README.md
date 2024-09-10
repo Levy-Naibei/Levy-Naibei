@@ -6,7 +6,7 @@
  <br/>
  <br/>
  
-- 🔭 I’m currently a Freelance developer
+- 🔭 I’m currently learning `LangBase` - A composable AI developer platform
 - 🌱 Also currently I am doing Freecode-camp full-stack course
 - 💬 Ask me about anything, except cooking  :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
