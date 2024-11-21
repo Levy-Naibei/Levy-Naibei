@@ -6,8 +6,8 @@
  <br/>
  <br/>
  
-- 🔭 I’m currently learning `LangBase` - A composable AI developer platform
-- 🌱 Also currently I am doing Freecode-camp full-stack course
+- 🔭 Currently working on an e-learning course content creator web app leveraging LLMs
+- 🌱 I’m currently learning `LangBase` - A composable AI developer platform
 - 💬 Ask me about anything, except cooking  :sweat_smile:
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact: I enjoy playing `piano` and hanging out with friends most of my leisure
